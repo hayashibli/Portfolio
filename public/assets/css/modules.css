@@ -1,0 +1,25 @@
+h2.alt {
+    color: #888;
+}
+
+    h2.alt strong {
+        color: #666;
+    }
+    
+    
+br.clear {
+		clear: both;
+    }      
+/* Container */
+
+.container {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1400px;
+}
+
+
+
+
+
+       
